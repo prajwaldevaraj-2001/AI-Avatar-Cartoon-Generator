@@ -1,0 +1,9 @@
+
+/ai-avatar-generator
+│── /static                 # Static assets (CSS, JS, Images)
+│── /templates              # HTML templates
+│── /models                 # AI models for transformation
+│── app.py                  # Main Flask app
+│── requirements.txt        # Dependencies
+│── Dockerfile              # (Optional) Containerized deployment
+│── README.md               # Project description
