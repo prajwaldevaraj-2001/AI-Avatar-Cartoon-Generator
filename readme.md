@@ -19,7 +19,7 @@ The **AI Avatar & Cartoon Generator** is a Flask-based web application that appl
 ## Installation & Setup ⚙️  
 
 ### 1️⃣ Clone the Repository<br> 
-git clone https://github.com/yourusername/AI-Avatar-Cartoon-Generator.git<br>
+git clone https://github.com/prajwaldevaraj-2001/AI-Avatar-Cartoon-Generator.git<br>
 cd AI-Avatar-Cartoon-Generator<br>
 
 2️⃣ Install Dependencies<br>
